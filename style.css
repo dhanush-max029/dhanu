@@ -1,0 +1,15 @@
+body
+{
+    color: rgb(251, 255, 7);
+}
+
+*{ 
+    background-color: rgb(43, 43, 197);
+}
+*{
+    text-align: center;
+}
+*{
+  font-weight: 500;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}

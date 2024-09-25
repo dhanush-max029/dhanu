@@ -1,0 +1,10 @@
+body{
+    background-image: url(images\ 23.jpeg);
+    background-repeat: no-repeat;
+    background-position: 1px;
+    background-position-y: 200px;
+    background-position-x: 50px;
+    background-attachment: fixed;
+    background-size: 700px;
+    backdrop-filter: blur5x;
+}

@@ -1,0 +1,43 @@
+*{
+    text-align: center;
+}
+body{
+    text-align: center;
+
+}
+body{
+    background-image: url(cat.jpeg);
+    background-repeat: no-repeat;
+    background-position: 100px;
+    background-attachment: fixed;
+}
+#div1{
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    margin: 10px;
+    background-color: brown;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+#div2{
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(22, 224, 163);
+    border: 1px solid black;
+    border-radius: 50%;
+}
+#div3{
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(39, 161, 238);
+    border: 1px solid black;
+    border-radius: 50%;
+}
+#box1{
+    border: 1px solid black;
+}
